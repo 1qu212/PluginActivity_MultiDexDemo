@@ -17,3 +17,6 @@ step3：对H类的mCallback字段进行Hook，拦截它的handleMessage()方法�
 
 # 方案优势
 相较于[PluginAcitivityDemo](https://github.com/1qu212/PluginAcitivityDemo)方案，插件中activity的加载不需要特地指明使用该插件的ClassLoader。
+
+# 更多
+加载插件资源见[PluginDemo](https://github.com/1qu212/PluginDemo)
